@@ -1,57 +1,39 @@
-# Aduok Code Snippets
+<!-- CABEÇALHO -->
+<h1 align="center">⚡ Code Snippets & Anotações de Código</h1>
 
-A collection of HTML, CSS, and JavaScript experiments featured on the **Aduok Code** YouTube channel.
+<p align="center">
+  Coleção de snippets reutilizáveis, algoritmos e notas de estudo desenvolvidos e catalogados durante o curso de ADS.
+</p>
 
-This repository contains small front-end demos, visual effects, and creative coding snippets from Shorts and related content.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Em_Constru%C3%A7%C3%A3o-000000?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/FATEC-Ribeir%C3%A3o_Preto-000000?style=for-the-badge&logo=education" alt="Fatec">
+</p>
 
-## Follow Aduok Code
+<hr>
 
-- **YouTube:** https://www.youtube.com/@aduok_code
-- **Instagram:** https://www.instagram.com/aduok_code/
+<!-- ÍNDICE DE NAVEGAÇÃO -->
+## 📚 Conteúdo
 
-## Repository Structure
+- [📌 Sobre o Projeto](#-sobre-o-projeto)
+- [🗂️ Categorias de Snippets](#️-categorias-de-snippets)
+- [🚀 Como Usar](#-como-usar)
+- [📜 Créditos & Origem](#-créditos--origem)
 
-Current project layout:
+---
 
-```text
-aduok-code-snippets/
-├── blog/
-│   ├── cursor-scorpion-animation.html
-│   └── pencil-loader.html
-└── README.md
-```
+## 📌 Sobre o Projeto
 
-## How to Use
+Este repositório reúne pequenos trechos de código úteis para o dia a dia de desenvolvimento. 
 
-1. Clone the repository:
+> **Nota de Crédito:** Este projeto é um *fork* baseado no repositório original do autor **Aduok**, customizado e expandido por **João Fornari** com novas anotações, exemplos práticos e refinamentos.
 
-```bash
-git clone https://github.com/aduok/aduok-code-snippets.git
-```
+---
 
-2. Open the project folder:
+## 🗂️ Categorias de Snippets
 
-```bash
-cd aduok-code-snippets
-```
-
-3. Open any demo from the `blog/` folder in a browser.
-
-Example:
-
-```bash
-open blog/pencil-loader.html
-```
-
-## Topics Covered
-
-- HTML
-- CSS
-- JavaScript
-- UI animations
-- Loaders and visual effects
-- Creative coding experiments
-
-## License
-
-This repository is open source and intended for learning and experimentation.
+| Categoria | Descrição | Linguagens |
+| :--- | :--- | :--- |
+| **Utilitários** 🛠️ | Funções para manipulação de strings, datas e objetos | JavaScript / Python |
+| **Algoritmos** 🧮 | Estruturas de dados básicas e ordenação | C++ / Java |
+| **Web** 🌐 | Componentes e utilitários front-end | HTML / CSS |
